@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My Skills:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,expressjs,nodejs,react,js,html,css,php,mysql,zig)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,expressjs,nodejs,react,js,html,css,bootstrap,php,mysql,zig,langchain)](https://skillicons.dev)
 - 🔭 I’m currently working on:
   - Shelf: A App that allow restaurants owner to keep track of their inventory with a fraction of the market price while getting majority of the benefits.
 - 🌱 I’m currently learning:
