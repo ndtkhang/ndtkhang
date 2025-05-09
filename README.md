@@ -2,7 +2,9 @@
 - My Skills:\
   [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,py,flask,sqlite,mongodb,expressjs,nodejs,postman,vue,react,js,html,css,bootstrap,php,mysql,c,zig,docker,powershell,kali,ubuntu,r)](https://skillicons.dev)
 - 🔭 I’m currently working on:
-  - Shelf: A App that allow restaurants owner to keep track of their inventory with a fraction of the market price while getting majority of the benefits.
+  - Shelf: An App that allow restaurants owner to keep track of their inventory with a fraction of the market price while getting majority of the benefits.
+  - Developer Club App: An App that allow members of the Developer Club @ WMU to navigate the club efficiently
+  - AI Kenya: A informational AI agent behind a number that users can text SMS message to and get domain-knowledge about the Ogiek community either in English or Swahili.
 - 🌱 I’m currently learning:
   - Utilizing Flutter & PostgreSQL, more advance flutter concepts
 - 🤔 I want to learn more about:
