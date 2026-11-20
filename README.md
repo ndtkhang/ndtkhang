@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My Skills:\
-  [![My Skills](https://skillicons.dev/icons?i=ros,py,flutter,dart,firebase,supabase,flask,sqlite,mongodb,expressjs,nodejs,postman,vue,react,js,html,css,tailwind,php,mysql,c,zig,docker,powershell,kali,ubuntu,r)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ros,py,flutter,dart,firebase,supabase,flask,sqlite,mongodb,expressjs,nodejs,postman,vue,react,tailwind,js,ts,html,css,php,mysql,c,zig,docker,powershell,kali,ubuntu,r)](https://skillicons.dev)
 - 🤔 What I'm looking for career wise:
   - Industries: Autonomous Vehicle, Healthcare and Sports
   - Strength: I like to be heavily impacting a project through design. I like to design the backend systems as well as user experience and interface.
